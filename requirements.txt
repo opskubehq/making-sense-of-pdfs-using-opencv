@@ -1,0 +1,7 @@
+flask
+flask_restful
+camelot-py[cv]
+json_tools
+json_delta
+requests
+gunicorn
